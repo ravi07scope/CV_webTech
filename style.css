@@ -1,0 +1,28 @@
+*{
+    margin: 5px;
+}
+#header p a {
+  text-decoration: none;
+}
+
+body {
+  background-color: #c0e3eb;
+}
+table,
+#header {
+  padding: 5px;
+}
+#edu {
+  height: 200px;
+  width: 400px;
+  border: 1px solid red;
+  border-collapse: collapse;
+  text-align: center;
+}
+th{
+    background-color: rgb(48, 92, 93);
+    color: #fff;
+}
+img{
+    border: 2px solid black;
+}
